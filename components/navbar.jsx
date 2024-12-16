@@ -14,7 +14,7 @@ export default function Navbar() {
     <nav className="fixed top-0 left-0 right-0 z-50 px-4 py-4 font-archivo bg-black">
       <div className="container mx-auto">
         <div className="flex justify-between items-center md:hidden">
-          <Link href="/" className="text-white text-xl font-bold">
+          <Link href="/" className="text-white text-2xl font-bold">
             MAT
           </Link>
           <button
@@ -58,13 +58,13 @@ export default function Navbar() {
           <div className="flex space-x-8">
             <Link
               href="/"
-              className="text-white hover:opacity-70 transition-opacity text-sm"
+              className="text-white hover:opacity-70 transition-opacity text-2xl"
             >
               HOME
             </Link>
             <Link
               href="/projects"
-              className="text-white hover:opacity-70 transition-opacity text-sm"
+              className="text-white hover:opacity-70 transition-opacity text-2xl"
             >
               PROJECTS
             </Link>
@@ -72,13 +72,13 @@ export default function Navbar() {
           <div className="flex space-x-8">
             <Link
               href="/photography"
-              className="text-white hover:opacity-70 transition-opacity text-sm"
+              className="text-white hover:opacity-70 transition-opacity text-2xl"
             >
               PHOTOGRAPHY
             </Link>
             <Link
               href="/contact"
-              className="text-white hover:opacity-70 transition-opacity text-sm"
+              className="text-white hover:opacity-70 transition-opacity text-2xl"
             >
               CONTACT
             </Link>
@@ -88,25 +88,25 @@ export default function Navbar() {
           <div className="md:hidden mt-4">
             <Link
               href="/"
-              className="block text-white hover:opacity-70 transition-opacity text-sm py-2"
+              className="block text-white hover:opacity-70 transition-opacity text-2xl py-2"
             >
               HOME
             </Link>
             <Link
               href="/projects"
-              className="block text-white hover:opacity-70 transition-opacity text-sm py-2"
+              className="block text-white hover:opacity-70 transition-opacity text-2xl py-2"
             >
               PROJECTS
             </Link>
             <Link
               href="/photography"
-              className="block text-white hover:opacity-70 transition-opacity text-sm py-2"
+              className="block text-white hover:opacity-70 transition-opacity text-2xl py-2"
             >
               PHOTOGRAPHY
             </Link>
             <Link
               href="/contact"
-              className="block text-white hover:opacity-70 transition-opacity text-sm py-2"
+              className="block text-white hover:opacity-70 transition-opacity text-2xl py-2"
             >
               CONTACT
             </Link>
