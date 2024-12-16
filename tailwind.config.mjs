@@ -7,6 +7,12 @@ export default {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        archivo: ["var(--font-archivo)"],
+        "pixelify-sans": ["var(--font-pixelify-sans)"],
+        "jacques-francois": ["var(--font-jacques-francois)"],
+        aldrich: ["var(--font-aldrich)"],
+      },
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",

@@ -3,19 +3,26 @@
 @tailwind utilities;
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+  --font-archivo: "Archivo", sans-serif;
+  --font-pixelify-sans: "Pixelify Sans", sans-serif;
+  --font-jacques-francois: "Jacques Francois", serif;
+  --font-aldrich: "Aldrich", sans-serif;
 }
 
 body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.font-archivo {
+  font-family: var(--font-archivo);
+}
+.font-pixelify-sans {
+  font-family: var(--font-pixelify-sans);
+}
+.font-jacques-francois {
+  font-family: var(--font-jacques-francois);
+}
+.font-aldrich {
+  font-family: var(--font-aldrich);
 }
