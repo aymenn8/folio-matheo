@@ -11,8 +11,10 @@ export default function Hero() {
         </p>
         <p className="text-white text-2xl mt-4 text-center">
           Currently at{" "}
-          <span className="underline">strate school of design</span> studying
-          industrial design
+          <a href="https://www.strate.design/" className="underline">
+            strate school of design
+          </a>{" "}
+          studying industrial design
         </p>
       </div>
     </section>
