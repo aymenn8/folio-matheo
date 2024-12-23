@@ -11,16 +11,18 @@ export default function Home() {
             <a
               href="https://www.linkedin.com/in/math%C3%A9o-peyrot-des-gachons-3146b6327/"
               className="text-white underline block"
+              target="_blank"
             >
               Linkedin
             </a>
             <a
               href="mailto:matheopeyrotdesgachons@gmail.com"
               className="text-white underline block"
+              target="_blank"
             >
               Email
             </a>
-            <a href="" className="text-white underline block">
+            <a href="" className="text-white underline block" target="_blank">
               my resume
             </a>
           </div>
