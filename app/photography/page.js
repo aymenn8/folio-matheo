@@ -8,7 +8,7 @@ export default function Home() {
     <main className="min-h-screen flex flex-col">
       <Navbar />
       <div className="container mx-auto max-w-6xl flex-grow">
-        <div className="pt-20">
+        <div className="pt-60">
           <Project projects={Allphotography} />
         </div>
       </div>
