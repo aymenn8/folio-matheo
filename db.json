@@ -1,0 +1,261 @@
+{
+  "projects": [
+    {
+      "name": "maroc",
+      "description": "Morocco is my home, a place where I’ve grown, learned, and connected deeply with my identity and culture. Through my lens, I captured the contrasts that define it: the serene rhythm of the call to prayer, the stillness of the desert, and the vibrant energy of its bustling souks and streets. These images reflect the beauty, tradition, and spirit of a country that has shaped who I am.",
+      "images": [
+        {
+          "url": "/images/MAROC/MAROC_1.png",
+          "alt": "Maroc1",
+          "isVideo": false
+        },
+        {
+          "url": "/images/MAROC/MAROC_2.png",
+          "alt": "Maroc2",
+          "isVideo": false
+        },
+        {
+          "url": "/images/MAROC/MAROC_3.png",
+          "alt": "Maroc3",
+          "isVideo": false
+        }
+      ],
+      "isDarkMode": false,
+      "projectType": "photography"
+    },
+    {
+      "name": "lpm",
+      "description": " 'Mes Petits Moutons' explore la peur de sortir des sentiers battus et le poids du conformisme dans une génération où les normes et les attentes imposées dictent souvent nos choix.",
+      "images": [
+        {
+          "url": "/images/lpm/lpm_1.png",
+          "alt": "lpm1",
+          "isVideo": false
+        },
+        {
+          "url": "/images/lpm/lpm_2.mp4",
+          "alt": "lpm2",
+          "isVideo": true
+        },
+        {
+          "url": "/images/lpm/lpm_3.mov",
+          "alt": "lpm3",
+          "isVideo": true
+        },
+        {
+          "url": "/images/lpm/lpm_4.mp4",
+          "alt": "lpm4",
+          "isVideo": true
+        }
+      ],
+      "isDarkMode": false,
+      "projectType": "project"
+    },
+    {
+      "name": "ipseity",
+      "description": "Ce projet revisite le flacon de parfum en s’inspirant de l’univers LEGO. Sa forme simple et modulaire permet une personnalisation infinie, mettant en avant la singularité de chacun.",
+      "images": [
+        {
+          "url": "/images/ipseity/ipseity_1.png",
+          "alt": "ipseity1",
+          "isVideo": false
+        },
+        {
+          "url": "/images/ipseity/ipseity_2.png",
+          "alt": "ipseity2",
+          "isVideo": false
+        },
+        {
+          "url": "/images/ipseity/ipseity_3.png",
+          "alt": "ipseity3",
+          "isVideo": false
+        },
+        {
+          "url": "/images/ipseity/ipseity_4.png",
+          "alt": "ipseity4",
+          "isVideo": false
+        }
+      ],
+      "isDarkMode": false,
+      "projectType": "project"
+    },
+    {
+      "name": "lacabane",
+      "description": "La Cabane is an immersive mobile experience on a cargo bike, offering fruit skewers coated in a delicate veil of chocolate. Designed to rediscover the joy of a reimagined chocolate fountain.",
+      "images": [
+        {
+          "url": "/images/lacabane/lacabane_1.png",
+          "alt": "lacabane1",
+          "isVideo": false
+        },
+        {
+          "url": "/images/lacabane/lacabane_2.png",
+          "alt": "lacabane2",
+          "isVideo": false
+        },
+        {
+          "url": "/images/lacabane/lacabane_3.png",
+          "alt": "lacabane3",
+          "isVideo": false
+        },
+        {
+          "url": "/images/lacabane/lacabane_4.png",
+          "alt": "lacabane4",
+          "isVideo": false
+        }
+      ],
+      "isDarkMode": false,
+      "projectType": "project"
+    },
+    {
+      "name": "nowayshirt",
+      "description": "Comment, en tant que designer, pouvons-NOUS faire prendre conscience aux voyageurs qu’ils sont témoins d’harcèlement sexuel et sexiste au quotidien, tout en redonnant la parole aux victimes ?",
+      "images": [
+        {
+          "url": "/images/nowayshirt/nws_1.png",
+          "alt": "nowayshirt1",
+          "isVideo": false
+        },
+        {
+          "url": "/images/nowayshirt/nws_2.png",
+          "alt": "nowayshirt2",
+          "isVideo": false
+        },
+        {
+          "url": "/images/nowayshirt/nws_3.png",
+          "alt": "nowayshirt3",
+          "isVideo": false
+        }
+      ],
+      "isDarkMode": false,
+      "projectType": "project"
+    },
+    {
+      "name": "rebuild",
+      "description": "RE:BUILD aims to create a modular, DIY object using reclaimed crate wood. Minimalist and eco-friendly, it features a precisely designed wooden plank that can be used to craft a variety of objects, encouraging consumer creativity while reducing environmental impact.",
+      "images": [
+        {
+          "url": "/images/rebuild/rb_1.png",
+          "alt": "rebuild1",
+          "isVideo": false
+        },
+        {
+          "url": "/images/rebuild/rb_2.png",
+          "alt": "rebuild2",
+          "isVideo": false
+        },
+        {
+          "url": "/images/rebuild/rb_3.png",
+          "alt": "rebuild3",
+          "isVideo": false
+        },
+        {
+          "url": "/images/rebuild/rb_4.png",
+          "alt": "rebuild4",
+          "isVideo": false
+        },
+        {
+          "url": "/images/rebuild/rb_5.png",
+          "alt": "rebuild5",
+          "isVideo": false
+        }
+      ],
+      "isDarkMode": false,
+      "projectType": "project"
+    },
+    {
+      "name": "e&a",
+      "description": "EGO&ARTIFICES est à la fois une plateforme en ligne et une exposition participative qui permet de prendre conscience du détournement d’informations et de contenus par l’IA.",
+      "images": [
+        {
+          "url": "/images/e&a/ea_1.png",
+          "alt": "e&a1",
+          "isVideo": false
+        },
+        {
+          "url": "/images/e&a/ea_2.png",
+          "alt": "e&a2",
+          "isVideo": false
+        },
+        {
+          "url": "/images/e&a/ea_3.png",
+          "alt": "e&a3",
+          "isVideo": false
+        },
+        {
+          "url": "/images/e&a/ea_4.png",
+          "alt": "e&a4",
+          "isVideo": false
+        }
+      ],
+      "isDarkMode": true,
+      "projectType": "project"
+    },
+    {
+      "name": "uluwatu",
+      "description": "During a journey through Indonesia, I captured what struck me most: the diversity of landscapes, the richness of its culture, and the interactions between locals and their environment. Through these images, I aimed to reflect the energy and vibrancy of this unique country.",
+      "images": [
+        {
+          "url": "/images/ULUWATU/ULU_1.png",
+          "alt": "Uluwatu1",
+          "isVideo": false
+        },
+        {
+          "url": "/images/ULUWATU/ULU_2.png",
+          "alt": "Uluwatu2",
+          "isVideo": false
+        },
+        {
+          "url": "/images/ULUWATU/ULU_3.png",
+          "alt": "Uluwatu3",
+          "isVideo": false
+        },
+        {
+          "url": "/images/ULUWATU/ULU_4.png",
+          "alt": "Uluwatu4",
+          "isVideo": false
+        },
+        {
+          "url": "/images/ULUWATU/ULU_5.png",
+          "alt": "Uluwatu5",
+          "isVideo": false
+        }
+      ],
+      "isDarkMode": false,
+      "projectType": "project"
+    },
+    {
+      "name": "souslo",
+      "description": "During a journey through Indonesia, I captured what struck me most: the diversity of landscapes, the richness of its culture, and the interactions between locals and their environment. Through these images, I aimed to reflect the energy and vibrancy of this unique country.",
+      "images": [
+        {
+          "url": "/images/SOUSLO/SOUSLO_1.png",
+          "alt": "Souslo1",
+          "isVideo": false
+        },
+        {
+          "url": "/images/SOUSLO/SOUSLO_2.png",
+          "alt": "Souslo2",
+          "isVideo": false
+        },
+        {
+          "url": "/images/SOUSLO/SOUSLO_3.png",
+          "alt": "Souslo3",
+          "isVideo": false
+        },
+        {
+          "url": "/images/SOUSLO/SOUSLO_4.png",
+          "alt": "Souslo4",
+          "isVideo": false
+        },
+        {
+          "url": "/images/SOUSLO/SOUSLO_5.png",
+          "alt": "Souslo5",
+          "isVideo": false
+        }
+      ],
+      "isDarkMode": false,
+      "projectType": "project"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 export default function Hero() {
   return (
-    <section className="min-h-screen flex flex-col justify-center items-center pt-24 pb-8 px-4 font-pixelify-sans">
+    <section className="min-h-screen flex flex-col justify-center items-center pt-24 pb-2 px-4 font-pixelify-sans">
       <h1 className="text-white text-4xl mb-6 text-center">HI! I'M MAT</h1>
       <div className="max-w-2xl mx-auto">
         <p className="text-white text-2xl leading-relaxed text-center">

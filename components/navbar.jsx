@@ -3,24 +3,29 @@
 import { useState } from "react";
 import Link from "next/link";
 
-export default function Navbar() {
+export default function Navbar({ isDarkMode = true }) {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
   const toggleMenu = () => {
     setIsMenuOpen(!isMenuOpen);
   };
 
+  const navClasses = `fixed top-0 left-0 right-0 z-50 px-4 py-4 font-archivo ${
+    isDarkMode ? "bg-black" : "bg-white"
+  }`;
+
+  const linkClasses = `hover:opacity-70 transition-opacity text-2xl ${
+    isDarkMode ? "text-white" : "text-black"
+  }`;
+
   return (
-    <nav className="fixed top-0 left-0 right-0 z-50 px-4 py-4 font-archivo bg-black">
+    <nav className={navClasses}>
       <div className="container mx-auto">
         <div className="flex justify-between items-center md:hidden">
-          <Link href="/" className="text-white text-2xl font-bold">
+          <Link href="/" className={`${linkClasses} font-bold`}>
             MAT
           </Link>
-          <button
-            className="text-white focus:outline-none"
-            onClick={toggleMenu}
-          >
+          <button className={linkClasses} onClick={toggleMenu}>
             {isMenuOpen ? (
               <svg
                 className="w-6 h-6"
@@ -56,58 +61,34 @@ export default function Navbar() {
         </div>
         <div className="hidden md:flex justify-between items-center">
           <div className="flex space-x-8">
-            <Link
-              href="/"
-              className="text-white hover:opacity-70 transition-opacity text-2xl"
-            >
+            <Link href="/" className={linkClasses}>
               HOME
             </Link>
-            <Link
-              href="/projects"
-              className="text-white hover:opacity-70 transition-opacity text-2xl"
-            >
+            <Link href="/projects" className={linkClasses}>
               PROJECTS
             </Link>
           </div>
           <div className="flex space-x-8">
-            <Link
-              href="/photography"
-              className="text-white hover:opacity-70 transition-opacity text-2xl"
-            >
+            <Link href="/photography" className={linkClasses}>
               PHOTOGRAPHY
             </Link>
-            <Link
-              href="/contact"
-              className="text-white hover:opacity-70 transition-opacity text-2xl"
-            >
+            <Link href="/contact" className={linkClasses}>
               CONTACT
             </Link>
           </div>
         </div>
         {isMenuOpen && (
           <div className="md:hidden mt-4">
-            <Link
-              href="/"
-              className="block text-white hover:opacity-70 transition-opacity text-2xl py-2"
-            >
+            <Link href="/" className={`block ${linkClasses} py-2`}>
               HOME
             </Link>
-            <Link
-              href="/projects"
-              className="block text-white hover:opacity-70 transition-opacity text-2xl py-2"
-            >
+            <Link href="/projects" className={`block ${linkClasses} py-2`}>
               PROJECTS
             </Link>
-            <Link
-              href="/photography"
-              className="block text-white hover:opacity-70 transition-opacity text-2xl py-2"
-            >
+            <Link href="/photography" className={`block ${linkClasses} py-2`}>
               PHOTOGRAPHY
             </Link>
-            <Link
-              href="/contact"
-              className="block text-white hover:opacity-70 transition-opacity text-2xl py-2"
-            >
+            <Link href="/contact" className={`block ${linkClasses} py-2`}>
               CONTACT
             </Link>
           </div>
