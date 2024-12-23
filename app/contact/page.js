@@ -22,7 +22,12 @@ export default function Home() {
             >
               Email
             </a>
-            <a href="" className="text-white underline block" target="_blank">
+            <a
+              href="/CV-MATHEO-PDG.pdf"
+              className="text-white underline block"
+              target="_blank"
+              download
+            >
               my resume
             </a>
           </div>

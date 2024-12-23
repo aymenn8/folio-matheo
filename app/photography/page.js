@@ -1,5 +1,4 @@
 import Navbar from "@/components/navbar";
-import Hero from "@/components/hero";
 import Project from "@/components/project";
 import Footer from "@/components/footer";
 import { Allphotography } from "@/utils/projectList";
