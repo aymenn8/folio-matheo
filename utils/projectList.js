@@ -1,6 +1,6 @@
 export const Allprojects = {
   IPSEITY: "ipseity",
-  "E & A": "e&a",
+  "E & A": "ea",
   LACABANE: "lacabane",
   "RE:BUILD": "rebuild",
   LPM: "lpm",
