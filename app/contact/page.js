@@ -17,7 +17,7 @@ export default function Home() {
             Linkedin
           </a>
           <a
-            href="mailto:matheopeyrotdesgachons@gmail.com"
+            href="mailto:m.peyrotdesgachons@strate.design"
             className="text-white underline block"
             target="_blank"
           >
