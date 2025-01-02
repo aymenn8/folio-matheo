@@ -28,22 +28,22 @@
       "description": " 'Mes Petits Moutons' explore la peur de sortir des sentiers battus et le poids du conformisme dans une génération où les normes et les attentes imposées dictent souvent nos choix.",
       "images": [
         {
-          "url": "/images/LPM/lpm_1.png",
+          "url": "/images/LPM/lPM_1.png",
           "alt": "lpm1",
           "isVideo": false
         },
         {
-          "url": "/images/LPM/lpm_2.mp4",
+          "url": "/images/LPM/lPM_2.mp4",
           "alt": "lpm2",
           "isVideo": true
         },
         {
-          "url": "/images/LPM/lpm_3.mov",
+          "url": "/images/LPM/lPM_3.mov",
           "alt": "lpm3",
           "isVideo": true
         },
         {
-          "url": "/images/LPM/lpm_4.mp4",
+          "url": "/images/LPM/lPM_4.mp4",
           "alt": "lpm4",
           "isVideo": true
         }
@@ -56,22 +56,22 @@
       "description": "Ce projet revisite le flacon de parfum en s’inspirant de l’univers LEGO. Sa forme simple et modulaire permet une personnalisation infinie, mettant en avant la singularité de chacun.",
       "images": [
         {
-          "url": "/images/IPSEITY/ipseity_1.png",
+          "url": "/images/IPSEITY/IPSEITY_1.png",
           "alt": "ipseity1",
           "isVideo": false
         },
         {
-          "url": "/images/IPSEITY/ipseity_2.png",
+          "url": "/images/IPSEITY/IPSEITY_2.png",
           "alt": "ipseity2",
           "isVideo": false
         },
         {
-          "url": "/images/IPSEITY/ipseity_3.png",
+          "url": "/images/IPSEITY/IPSEITY_3.png",
           "alt": "ipseity3",
           "isVideo": false
         },
         {
-          "url": "/images/IPSEITY/ipseity_4.png",
+          "url": "/images/IPSEITY/IPSEITY_4.png",
           "alt": "ipseity4",
           "isVideo": false
         }
@@ -84,22 +84,22 @@
       "description": "La Cabane is an immersive mobile experience on a cargo bike, offering fruit skewers coated in a delicate veil of chocolate. Designed to rediscover the joy of a reimagined chocolate fountain.",
       "images": [
         {
-          "url": "/images/LACABANE/lacabane_1.png",
+          "url": "/images/LACABANE/LACABANE_1.png",
           "alt": "lacabane1",
           "isVideo": false
         },
         {
-          "url": "/images/LACABANE/lacabane_2.png",
+          "url": "/images/LACABANE/LACABANE_2.png",
           "alt": "lacabane2",
           "isVideo": false
         },
         {
-          "url": "/images/LACABANE/lacabane_3.png",
+          "url": "/images/LACABANE/LACABANE_3.png",
           "alt": "lacabane3",
           "isVideo": false
         },
         {
-          "url": "/images/LACABANE/lacabane_4.png",
+          "url": "/images/LACABANE/LACABANE_4.png",
           "alt": "lacabane4",
           "isVideo": false
         }
@@ -112,17 +112,17 @@
       "description": "Comment, en tant que designer, pouvons-NOUS faire prendre conscience aux voyageurs qu’ils sont témoins d’harcèlement sexuel et sexiste au quotidien, tout en redonnant la parole aux victimes ?",
       "images": [
         {
-          "url": "/images/NOWAYSHIRT/nws_1.png",
+          "url": "/images/NOWAYSHIRT/NWS_1.png",
           "alt": "nowayshirt1",
           "isVideo": false
         },
         {
-          "url": "/images/NOWAYSHIRT/nws_2.png",
+          "url": "/images/NOWAYSHIRT/NWS_2.png",
           "alt": "nowayshirt2",
           "isVideo": false
         },
         {
-          "url": "/images/NOWAYSHIRT/nws_3.png",
+          "url": "/images/NOWAYSHIRT/NWS_3.png",
           "alt": "nowayshirt3",
           "isVideo": false
         }
@@ -135,27 +135,27 @@
       "description": "RE:BUILD aims to create a modular, DIY object using reclaimed crate wood. Minimalist and eco-friendly, it features a precisely designed wooden plank that can be used to craft a variety of objects, encouraging consumer creativity while reducing environmental impact.",
       "images": [
         {
-          "url": "/images/REBUILD/rb_1.png",
+          "url": "/images/REBUILD/RB_1.png",
           "alt": "rebuild1",
           "isVideo": false
         },
         {
-          "url": "/images/REBUILD/rb_2.png",
+          "url": "/images/REBUILD/RB_2.png",
           "alt": "rebuild2",
           "isVideo": false
         },
         {
-          "url": "/images/REBUILD/rb_3.png",
+          "url": "/images/REBUILD/RB_3.png",
           "alt": "rebuild3",
           "isVideo": false
         },
         {
-          "url": "/images/REBUILD/rb_4.png",
+          "url": "/images/REBUILD/RB_4.png",
           "alt": "rebuild4",
           "isVideo": false
         },
         {
-          "url": "/images/REBUILD/rb_5.png",
+          "url": "/images/REBUILD/RB_5.png",
           "alt": "rebuild5",
           "isVideo": false
         }
@@ -168,22 +168,22 @@
       "description": "EGO&ARTIFICES est à la fois une plateforme en ligne et une exposition participative qui permet de prendre conscience du détournement d’informations et de contenus par l’IA.",
       "images": [
         {
-          "url": "/images/E&A/ea_1.png",
+          "url": "/images/E&A/EA_1.png",
           "alt": "e&a1",
           "isVideo": false
         },
         {
-          "url": "/images/E&A/ea_2.png",
+          "url": "/images/E&A/EA_2.png",
           "alt": "e&a2",
           "isVideo": false
         },
         {
-          "url": "/images/E&A/ea_3.png",
+          "url": "/images/E&A/EA_3.png",
           "alt": "e&a3",
           "isVideo": false
         },
         {
-          "url": "/images/E&A/ea_4.png",
+          "url": "/images/E&A/EA_4.png",
           "alt": "e&a4",
           "isVideo": false
         }
