@@ -1,7 +1,7 @@
 import Navbar from "@/components/navbar";
 import Project from "@/components/project";
 import Footer from "@/components/footer";
-import { Allprojects } from "@/utils/projectList";
+import { AllProjectWithoutPhotography } from "@/utils/projectList";
 
 export default function Home() {
   return (
@@ -9,7 +9,7 @@ export default function Home() {
       <Navbar />
       <div className="container mx-auto max-w-6xl">
         <div className="pt-60">
-          <Project projects={Allprojects} />
+          <Project projects={AllProjectWithoutPhotography} />
         </div>
         <Footer />
       </div>
