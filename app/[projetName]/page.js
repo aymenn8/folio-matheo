@@ -20,12 +20,12 @@ export default async function ProjectPage({ params }) {
       <Navbar isDarkMode={project.isDarkMode} />
       <div
         className={`w-screen font-aldrich ${
-          !project.isDarkMode ? "bg-white" : ""
+          project.isDarkMode ? "bg-black text-white" : "bg-white text-black"
         }`}
       >
         <div className="container mx-auto max-w-6xl pt-60 pb-60">
           <div className="space-y-8">
-            <p className="text-xl texte-white">{project.description}</p>
+            <p className="text-xl">{project.description}</p>
           </div>
         </div>
         <div className="grid grid-cols-1 gap-0">
