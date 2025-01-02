@@ -15,3 +15,12 @@ export const Allphotography = {
   ULUWATU: "uluwatu",
   MAROC: "maroc",
 };
+
+export const AllProjectWithoutPhotography = {
+  IPSEITY: "ipseity",
+  "E & A": "ea",
+  LACABANE: "lacabane",
+  "RE:BUILD": "rebuild",
+  LPM: "lpm",
+  NOWAYHOME: "nowayshirt",
+};
