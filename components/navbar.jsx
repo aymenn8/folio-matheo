@@ -10,9 +10,7 @@ export default function Navbar({ isDarkMode = true }) {
     setIsMenuOpen(!isMenuOpen);
   };
 
-  const navClasses = `fixed top-0 left-0 right-0 z-50 px-4 py-4 font-archivo ${
-    isDarkMode ? "bg-black" : "bg-white"
-  }`;
+  const navClasses = `fixed top-0 left-0 right-0 z-50 px-4 py-4 font-archivo`;
 
   const linkClasses = `hover:opacity-70 transition-opacity text-2xl ${
     isDarkMode ? "text-white" : "text-black"
