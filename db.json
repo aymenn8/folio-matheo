@@ -28,22 +28,22 @@
       "description": " 'Mes Petits Moutons' explore la peur de sortir des sentiers battus et le poids du conformisme dans une génération où les normes et les attentes imposées dictent souvent nos choix.",
       "images": [
         {
-          "url": "/images/LPM/lPM_1.png",
+          "url": "/images/LPM/LPM_1.png",
           "alt": "lpm1",
           "isVideo": false
         },
         {
-          "url": "/images/LPM/lPM_2.mp4",
+          "url": "/images/LPM/LPM_2.mp4",
           "alt": "lpm2",
           "isVideo": true
         },
         {
-          "url": "/images/LPM/lPM_3.mov",
+          "url": "/images/LPM/LPM_3.mov",
           "alt": "lpm3",
           "isVideo": true
         },
         {
-          "url": "/images/LPM/lPM_4.mp4",
+          "url": "/images/LPM/LPM_4.mp4",
           "alt": "lpm4",
           "isVideo": true
         }

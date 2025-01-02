@@ -2,14 +2,14 @@ import Image from "next/image";
 
 const MoroccoShowcase = () => {
   const videos = [
-    { url: "/images/maroc//maroc_4.1.mov" },
-    { url: "/images/maroc/maroc_4.2.mp4" },
-    { url: "/images/maroc/maroc_4.3.mp4" },
-    { url: "/images/maroc/maroc_4.4.mp4" },
+    { url: "/images/MAROC/MAROC_4.1.mov" },
+    { url: "/images/MAROC/MAROC_4.2.mp4" },
+    { url: "/images/MAROC/MAROC_4.3.mp4" },
+    { url: "/images/MAROC/MAROC_4.4.mp4" },
   ];
 
   const image = {
-    url: "/images/maroc/maroc_5.png",
+    url: "/images/MAROC/MAROC_5.png",
     alt: "Morocco Showcase",
   };
 
