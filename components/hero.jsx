@@ -4,13 +4,13 @@ export default function Hero() {
       <h1 className="text-white text-4xl mb-6 text-center">HI! I'M MAT</h1>
       <div className="max-w-2xl mx-auto">
         <p className="text-white text-2xl leading-relaxed text-center">
-          As a design student for the past two years, I have enriched my
+          Currently in my third year as a design student, I have enriched my
           academic background by studying in Morocco, Algeria, United States,
           and France. All of these cultures have shaped my vision of the world
           and profoundly influenced my approach to design.
         </p>
         <p className="text-white text-2xl mt-4 text-center">
-          Currently at{" "}
+          Presently at{" "}
           <a
             href="https://www.strate.design/"
             className="underline"
